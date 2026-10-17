@@ -6,25 +6,51 @@
 </p>
 
 <p align="center">
+  <sub>Full-stack · Frontend &amp; UI · Machine learning · Deep learning · Data science</sub>
+</p>
+
+<p align="center">
   <a href="https://sakshamboldhan.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-sakshamboldhan.vercel.app-1f2937?style=flat-square&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/saksham999-SAK"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-saksham999--SAK-1f2937?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.aylark.com"><img alt="AyLark" src="https://img.shields.io/badge/AyLark-aylark.com-1f2937?style=flat-square&logo=vercel&logoColor=white"></a>
   <!-- Uncomment and fill in once you confirm the links:
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-1f2937?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:YOUR-EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-get_in_touch-1f2937?style=flat-square&logo=gmail&logoColor=white"></a>
   -->
 </p>
 
+<p align="center">
+  <a href="https://github.com/saksham999-SAK">
+    <img alt="Saksham's GitHub contribution graph" src="https://ghchart.rshah.org/2ea043/saksham999-SAK" width="100%">
+  </a>
+</p>
+
 ---
 
 ## About
 
-I'm a third-year B.Tech student specialising in AI and Data Science. I like projects where a model or data pipeline sits behind an interface people can actually use: an API that scores EV battery health, a habit tracker that turns daily choices into CO₂ numbers, a website for a run club.
+I'm a third-year B.Tech student specialising in AI and Data Science. I like projects where a model or data pipeline sits behind an interface people can actually use: a booking platform for salons, an API that scores EV battery health, a website for a run club.
 
 Right now I'm building **Strivioco**, a community platform that connects runners with running clubs and events, while strengthening my ML and deep learning fundamentals alongside it.
 
 ---
 
+## Organization
+
+**[AyLark](https://github.com/aylark-tech)** · India-based platform for salons, spas and wellness businesses. Customers discover nearby salons and book appointments; businesses manage appointments, staff commissions and client records.
+<!-- Add your role here, e.g. "Web developer on the public booking platform." -->
+
+---
+
 ## Featured projects
+
+### AyLark Public Booking Platform
+The public-facing website and booking experience for AyLark: customers find nearby salons, browse services and offers, and book appointments, while salon owners are pointed to the partner and business-software side.
+
+`Web` `Booking` `Responsive UI`
+
+[Live site](https://www.aylark.com/)
+<!-- The aylark-tech repository is not public, so no GitHub link is shown. -->
 
 ### EV Battery Intelligence
 Machine-learning system for lithium-ion battery health. It outputs **State of Health (SOH)**, **Remaining Useful Life (RUL)** and an **anomaly status**.
@@ -61,9 +87,14 @@ Website for a run club: upcoming runs, merchandise and member benefits. Built wi
 
 [Repository](https://github.com/saksham999-SAK/raftaarClub) · [Live site](https://raftaar-club.vercel.app)
 
+### More work
+
+- **HyperStudio**: React + Vite web app. [Repository](https://github.com/saksham999-SAK/HyperStudioo) · [Live](https://hyper-studioo.vercel.app)
+- **Curvye**: JavaScript web app. [Repository](https://github.com/saksham999-SAK/curvyee) · [Live](https://curvyee.vercel.app)
+
 ---
 
-## Tech stack
+## Skills
 
 **Languages**<br/>
 <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=white">
