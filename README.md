@@ -20,9 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/saksham999-SAK">
-    <img alt="Saksham's GitHub contribution graph" src="https://ghchart.rshah.org/2ea043/saksham999-SAK" width="100%">
-  </a>
+  <img alt="Saksham's GitHub contributions, January to December" src="./contributions.svg" width="100%">
 </p>
 
 ---
